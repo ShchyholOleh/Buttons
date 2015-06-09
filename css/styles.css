@@ -1,0 +1,14 @@
+body{
+    background-color: #dbe5d4;
+}
+
+aside{
+   float:right;
+    width: 200px;
+}
+
+button {
+height: 30px;
+width: 170px;
+border-radius: 5px;
+}
